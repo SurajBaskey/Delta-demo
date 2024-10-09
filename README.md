@@ -1,2 +1,2 @@
 # Delta-demo
-Thsi is a demo for git &amp; github clas
+Thsi is a demo for git &amp; github class
